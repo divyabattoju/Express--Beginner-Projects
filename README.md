@@ -11,9 +11,8 @@ Go to http://nodejs.org and install NodeJS
 Then clone this repo:
 
 git clone https://github.com/divyabattoju/Express-Examples.git 
-And cd into the directory (all instructions below assume you are in the word-finder directory:
 
-cd express-example
+and cd express-example
 
 Install all the dependencies:
 
